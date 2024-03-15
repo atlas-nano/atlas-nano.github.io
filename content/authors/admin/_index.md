@@ -1,5 +1,5 @@
 ---
-# Display name
+# Display name 
 title: Tod Pascal
 
 # Full Name (for SEO)
