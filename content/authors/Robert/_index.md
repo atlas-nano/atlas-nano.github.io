@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, Materials Science and Engineering 
+role: PhD student, Nanoengineering 
 
 # Organizations/Affiliations
 organizations:
