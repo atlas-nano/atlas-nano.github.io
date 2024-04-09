@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: contact.png
           filters:
             brightness: 1
           parallax: false

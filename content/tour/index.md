@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: New office location in Franklin Antonio Hall
+        content: 'Beautiful office spaces in the SPEC collaboratory in FAH'
         align: right
         background:
           image:
