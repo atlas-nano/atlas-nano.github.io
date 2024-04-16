@@ -10,7 +10,7 @@ last_name: Pascal
 superuser: true
 
 # Role/position
-role: Assistant Professor of NanoEngineering and Chemical Engineering
+role: Associate Professor of NanoEngineering and Chemical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -70,4 +70,4 @@ user_groups:
   - Researchers
 ---
 
-Tod A. Pascal graduated from the Division of Chemistry and Chemical Engineering at the California Institute of Technology in 2010. He conducted research in various areas of molecular simulations of biological and inorganic nanostructures, advancing efficient approaches for predicating free energies of these systems. He performed a year and a half international postdoctoral fellowship at the Korea Advanced Institute of Science and Technology, working with scientists at the Energy, Environment, Water and Sustainability department on the development of water desalination membranes. He then joined the Lawrence Berkeley National Lab, first as a post-doc and later as a project scientist, working on characterizing the solution phase chemistries of next generation batteries from first principles simulations and predicting the properties of solid/liquid interfaces using simulated core-level spectroscopy.
+Tod A. Pascal graduated from the Division of Chemistry and Chemical Engineering at the California Institute of Technology in 2010. He conducted research in various areas of molecular simulations of biological and inorganic nanostructures, advancing efficient approaches for predicating free energies of these systems. He performed a year and a half international postdoctoral fellowship at the Korea Advanced Institute of Science and Technology, working with scientists at the Energy, Environment, Water and Sustainability department on the development of water desalination membranes. He then joined the Lawrence Berkeley National Lab, first as a post-doc and later as a project scientist, working on characterizing the solution phase chemistries of next generation batteries from first principles simulations and predicting the properties of solid/liquid interfaces using simulated core-level spectroscopy. He joined UCSD in November 2017 as an assistant professor of Nano and Chemical Engineering and the PI of the ATLAS Materials Physics laboratory. When he's not surfing or snowboarding, he's trying out all the amazing variety of food that makes San Diego the finest city in the US!
