@@ -1,7 +1,7 @@
 ---
 title: "Quantum mechanics based force field for carbon (QMFF-Cx) validated to reproduce the mechanical and thermodynamics properties of graphite"
 authors:
-- admin
+- Tod
 - Naoki Karasawa
 - William A. Goddard
 date: "2010-10-07T00:00:00Z"
