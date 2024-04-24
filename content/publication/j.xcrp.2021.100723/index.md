@@ -25,5 +25,6 @@ links:
 
 publication: "Cell Reports Physical Science"
 publication_types: ["article-journal"]
+---
 
 Add the publication's full text or supplementary notes here.
