@@ -1,7 +1,7 @@
 ---
 title: "The purported square ice in bilayer graphene is a nanoscale, monolayer object"
 authors:
-- admin
+- Tod
 - Craig P. Schwartz
 - Keith V. Lawler
 - David Prendergast
