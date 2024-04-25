@@ -30,10 +30,10 @@ interests:
   - Atomistic simulations
 
 education:
-    - B.S. in Physics 
+    - course: B.S. in Physics 
       institution: Universidad de los Andes
       year: 2021
-    - B.S. in Chemistry 
+    - course: B.S. in Chemistry 
       institution: Universidad de los Andes
       year: 2019
 
