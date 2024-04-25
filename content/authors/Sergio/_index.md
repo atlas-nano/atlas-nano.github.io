@@ -25,15 +25,15 @@ organizations:
 bio: # TODO:
 
 interests:
-  - Quantum Mechanics
-  - Force Field Methods
+  - Interfaces
+  - Condensed matter physics
+  - Atomistic simulations
 
 education:
-  courses:
-    - course: B.S. in Physics 
+    - B.S. in Physics 
       institution: Universidad de los Andes
       year: 2021
-    - course: B.S. in Chemistry 
+    - B.S. in Chemistry 
       institution: Universidad de los Andes
       year: 2019
 
@@ -48,9 +48,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+   - icon: google-scholar
+     icon_pack: ai
+     link: https://scholar.google.com/citations?user=BFfahXYAAAAJ&hl
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: scorreallopez@ucsd.edu
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,4 +69,4 @@ user_groups:
   - Grad Students
 ---
 
-Sergio is a Materials Science and Engineering PhD student at UC San Diego, specializing in the application of quantum mechanical and force field methods to investigate solid/liquid interfaces relevant to electrochemistry. Currently, Sergio is immersed in copper electrodeposition simulations, aligning his research with the latest experimental endeavors of collaborators who employ cutting-edge X-ray techniques to explore interfaces. Sergio earned his B.S. in Chemistry in 2019 and obtained a second B.S. in Physics in 2021 from Universidad de los Andes, Colombia.
+Sergio uses quantum mechanical and force field methods to investigate solid/liquid interfaces relevant to electrochemistry. Currently, Sergio is probing the thermodynamics of copper electrodeposition on a gold surface. His simulations involve using specialized methods to simulate an applied voltage and utilizing computational XAS spectroscopy.
