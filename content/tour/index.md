@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+        content: We like to eat!
         align: center
         background:
           image:
@@ -17,6 +17,16 @@ sections:
             filters:
               brightness: 0.7
           position: right
+          color: '#666'
+      - title: Yum!
+        content: Spring Quarter Lab Social
+        align: center
+        background:
+          image:
+            filename: group-dinner.jpg
+            filters:
+              brightness: 0.7
+          position: left
           color: '#666'
       - title: Materials Science Reasearch at UC San Diego 
         content: 'Students and faculty will shape the nano- and bio-materials that will make life better, healthier and safer!'
