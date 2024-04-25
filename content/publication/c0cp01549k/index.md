@@ -1,7 +1,7 @@
 ---
 title: "Thermodynamics of liquids: standard molar entropies and heat capacities of common solvents from 2PT molecular dynamics"
 authors:
-- admin
+- Tod Pascal
 - Shiang-Tai Lin
 - William A. Goddard III
 date: "2011-01-01T00:00:00Z"

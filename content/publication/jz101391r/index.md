@@ -2,7 +2,7 @@
 title: "New Insights into the Structure of the Vapor/Water Interface from Large-Scale First-Principles Simulations"
 authors:
 - Thomas D. Kühne
-- admin
+- Tod Pascal
 - Efthimios Kaxiras
 - Yousung Jung
 date: "2011-01-20T00:00:00Z"

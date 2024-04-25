@@ -1,7 +1,7 @@
 ---
 title: "Finite temperature effects on the X-ray absorption spectra of lithium compounds: First-principles interpretation of X-ray Raman measurements"
 authors:
-- admin
+- Tod Pascal
 - Ulrike Boesenberg
 - Robert Kostecki
 - Thomas J. Richardson

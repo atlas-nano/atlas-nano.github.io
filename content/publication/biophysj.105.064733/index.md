@@ -2,7 +2,7 @@
 title: "Atomic-Level Simulations of Seeman DNA Nanostructures: The Paranemic Crossover in Salt Solution"
 authors:
 - Prabal K. Maiti
-- admin
+- Tod Pascal
 - Nagarajan Vaidehi
 - Jiyoung Heo
 - William A. Goddard

@@ -2,7 +2,7 @@
 title: "Molecular understanding of polyelectrolyte binders that actively regulate ion transport in sulfur cathodes"
 authors:
 - Longjun Li
-- admin
+- Tod Pascal
 - Justin G. Connell
 - Frank Y. Fan
 - Stephen M. Meckler

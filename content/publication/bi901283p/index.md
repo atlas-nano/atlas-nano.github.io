@@ -6,7 +6,7 @@ authors:
 - Vonny Juwita
 - Yu Kao
 - John G. Duman
-- admin
+- Tod Pascal
 - William A. Goddard
 - Xin Wen
 date: "2009-10-13T00:00:00Z"

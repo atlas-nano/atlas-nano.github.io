@@ -20,7 +20,7 @@ authors:
 - Walter S. Drisdell
 - Iwao Matsuda
 - John W. Freeland
-- admin
+- Tod Pascal
 - Michael Zuerch
 date: "2021-07-28T00:00:00Z"
 doi: "10.1021/acs.nanolett.1c01502"

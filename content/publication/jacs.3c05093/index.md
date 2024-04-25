@@ -6,7 +6,7 @@ authors:
 - Qiang Xu
 - Amanda A. Chen
 - Jin Qian
-- admin
+- Tod Pascal
 - Richard J. Saykally
 date: "2023-10-18T00:00:00Z"
 doi: "10.1021/jacs.3c05093"

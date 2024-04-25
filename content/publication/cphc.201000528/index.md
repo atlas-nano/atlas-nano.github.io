@@ -5,7 +5,7 @@ authors:
 - Habib Ahmad
 - Qihui Shi
 - Hyungjun Kim
-- admin
+- Tod Pascal
 - Rong Fan
 - William A. Goddard
 - James R. Heath

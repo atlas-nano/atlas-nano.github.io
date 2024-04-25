@@ -4,7 +4,7 @@ authors:
 - Walter S. Drisdell
 - Roberta Poloni
 - Thomas M. McDonald
-- admin
+- Tod Pascal
 - Liwen F. Wan
 - C. Das Pemmaraju
 - Bess Vlaisavljevich

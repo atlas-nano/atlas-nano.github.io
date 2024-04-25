@@ -1,7 +1,7 @@
 ---
 title: "On the absolute thermodynamics of water from computer simulations: A comparison of first-principles molecular dynamics, reactive and empirical force fields"
 authors:
-- admin
+- Tod Pascal
 - Daniel Schärf
 - Yousung Jung
 - Thomas D. Kühne

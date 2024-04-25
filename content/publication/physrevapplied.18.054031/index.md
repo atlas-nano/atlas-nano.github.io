@@ -3,7 +3,7 @@ title: "Molecular Insights Into the Physics of Poly(amidoamine)-Dendrimer-Based 
 authors:
 - Tarun Maity
 - Mounika Gosika
-- admin
+- Tod Pascal
 - Prabal K. Maiti
 date: "2022-11-10T00:00:00Z"
 doi: "10.1103/physrevapplied.18.054031"

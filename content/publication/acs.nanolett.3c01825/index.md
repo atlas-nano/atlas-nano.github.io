@@ -12,7 +12,7 @@ authors:
 - Ying Shirley Meng
 - Ping Liu
 - Seth M. Cohen
-- admin
+- Tod Pascal
 - Zheng Chen
 date: "2023-08-09T00:00:00Z"
 doi: "10.1021/acs.nanolett.3c01825"

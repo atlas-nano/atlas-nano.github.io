@@ -2,7 +2,7 @@
 title: "pH-Dependent Conformations for Hyperbranched Poly(ethylenimine) from All-Atom Molecular Dynamics"
 authors:
 - In Kim
-- admin
+- Tod Pascal
 - Seong-Jik Park
 - Mamadou Diallo
 - William A. Goddard III

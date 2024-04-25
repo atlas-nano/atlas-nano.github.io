@@ -1,7 +1,7 @@
 ---
 title: "Interfacial Thermodynamics of Water and Six Other Liquid Solvents"
 authors:
-- admin
+- Tod Pascal
 - William A. Goddard
 date: "2014-06-05T00:00:00Z"
 doi: "10.1021/jp410861h"

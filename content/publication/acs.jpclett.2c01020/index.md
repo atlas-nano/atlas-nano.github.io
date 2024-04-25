@@ -13,7 +13,7 @@ authors:
 - Richard J. Saykally
 - Walter S. Drisdell
 - Shervin Fatehi
-- admin
+- Tod Pascal
 - Michael Zuerch
 date: "2022-10-06T00:00:00Z"
 doi: "10.1021/acs.jpclett.2c01020"

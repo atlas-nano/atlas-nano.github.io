@@ -3,7 +3,7 @@ title: "Two-photon absorption of soft X-ray free electron laser radiation by gra
 authors:
 - Royce K. Lam
 - Sumana L. Raj
-- admin
+- Tod Pascal
 - C.D. Pemmaraju
 - Laura Foglia
 - Alberto Simoncig

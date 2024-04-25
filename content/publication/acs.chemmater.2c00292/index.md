@@ -3,7 +3,7 @@ title: "Computational Modeling of Molecular Mechanics for the Experimentally Inc
 authors:
 - Andrew T. Kleinschmidt
 - Alexander X. Chen
-- admin
+- Tod Pascal
 - Darren J. Lipomi
 date: "2022-09-13T00:00:00Z"
 doi: "10.1021/acs.chemmater.2c00292"

@@ -5,7 +5,7 @@ authors:
 - Sreekiran Pillai
 - Adriano Santana
 - Stephen H. Donaldson Jr.
-- admin
+- Tod Pascal
 - Himanshu Mishra
 date: "2019-09-19T00:00:00Z"
 doi: "10.1021/acs.jpclett.9b01835"

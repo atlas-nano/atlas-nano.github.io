@@ -10,7 +10,7 @@ authors:
 - Sicen Yu
 - Shen Wang
 - Jianbin Zhou
-- admin
+- Tod Pascal
 - Jian Luo
 - Zhaoping Liu
 - Ying Shirley Meng

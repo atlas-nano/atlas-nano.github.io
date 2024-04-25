@@ -14,7 +14,7 @@ authors:
 - Zhi Li
 - Jiajing Zhou
 - Lingyan Shi
-- admin
+- Tod Pascal
 - Jesse V. Jokerst
 date: "2023-09-13T00:00:00Z"
 doi: "10.1021/acsami.3c09627"

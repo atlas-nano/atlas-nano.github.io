@@ -10,7 +10,7 @@ authors:
 - Matthew J. Latimer
 - Jun Feng
 - David Prendergast
-- admin
+- Tod Pascal
 - Nitash P. Balsara
 date: "2018-01-01T00:00:00Z"
 doi: "10.1149/2.0981814jes"

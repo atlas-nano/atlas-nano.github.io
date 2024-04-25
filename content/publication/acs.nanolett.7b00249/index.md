@@ -1,7 +1,7 @@
 ---
 title: "Liquid Sulfur Impregnation of Microporous Carbon Accelerated by Nanoscale Interfacial Effects"
 authors:
-- admin
+- Tod Pascal
 - Irune Villaluenga
 - Kevin H. Wujcik
 - Didier Devaux

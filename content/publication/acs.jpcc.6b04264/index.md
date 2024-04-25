@@ -5,7 +5,7 @@ authors:
 - Dunyang Rita Wang
 - Aditya Raghunathan
 - Melanie Drake
-- admin
+- Tod Pascal
 - David Prendergast
 - Nitash P. Balsara
 date: "2016-08-25T00:00:00Z"

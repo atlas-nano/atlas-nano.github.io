@@ -2,7 +2,7 @@
 title: "Design of Covalent Organic Frameworks for Methane Storage"
 authors:
 - Jose L. Mendoza-Cortes
-- admin
+- Tod Pascal
 - William A. Goddard
 date: "2011-12-01T00:00:00Z"
 doi: "10.1021/jp209541e"

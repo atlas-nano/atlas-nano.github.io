@@ -12,7 +12,7 @@ authors:
 - Hung-Tzu Chang
 - Juwon Oh
 - C. Das Pemmaraju
-- admin
+- Tod Pascal
 - Stephane Sebban
 - Christian Spielmann
 - Michael Zuerch

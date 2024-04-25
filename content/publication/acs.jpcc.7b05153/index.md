@@ -3,7 +3,7 @@ title: "Multilayer Two-Dimensional Water Structure Confined in MoS<sub>2</sub>"
 authors:
 - Kijeong Kwac
 - In Kim
-- admin
+- Tod Pascal
 - William A. Goddard
 - Hyung Gyu Park
 - Yousung Jung

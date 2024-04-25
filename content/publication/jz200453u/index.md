@@ -1,7 +1,7 @@
 ---
 title: "An Inexpensive, Widely Available Material for 4 wt % Reversible Hydrogen Storage Near Room Temperature"
 authors:
-- admin
+- Tod Pascal
 - Christopher Boxe
 - William A Goddard
 date: "2011-06-16T00:00:00Z"

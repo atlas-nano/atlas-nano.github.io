@@ -2,7 +2,7 @@
 title: "Deswelling Mechanisms of Surface-Grafted Poly(NIPAAm) Brush: Molecular Dynamics Simulation Approach"
 authors:
 - Seung Geol Lee
-- admin
+- Tod Pascal
 - Wonsang Koh
 - Giuseppe F. Brunello
 - William A. Goddard

@@ -4,7 +4,7 @@ authors:
 - Jiwon Jeon
 - Hyungjun Kim
 - William A. Goddard
-- admin
+- Tod Pascal
 - Ga-In Lee
 - Jeung Ku Kang
 date: "2012-02-16T00:00:00Z"

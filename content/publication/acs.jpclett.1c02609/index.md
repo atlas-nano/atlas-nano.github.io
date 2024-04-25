@@ -1,7 +1,7 @@
 ---
 title: "Entropic Stabilization of Water at Graphitic Interfaces"
 authors:
-- admin
+- Tod Pascal
 - William A. Goddard
 date: "2021-09-23T00:00:00Z"
 doi: "10.1021/acs.jpclett.1c02609"

@@ -4,7 +4,7 @@ authors:
 - Changyi Li
 - Ashleigh L. Ward
 - Sean E. Doris
-- admin
+- Tod Pascal
 - David Prendergast
 - Brett A. Helms
 date: "2015-09-09T00:00:00Z"

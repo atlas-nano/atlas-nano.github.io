@@ -3,7 +3,7 @@ title: "Investigation of local distortion effects on X-ray absorption of ferroel
 authors:
 - Pedram Abbasi
 - David P. Fenning
-- admin
+- Tod Pascal
 date: "2023-01-01T00:00:00Z"
 doi: "10.1039/d2nr05732h"
 abstract: "<jats:p>We investigate ferroelectric local distortion in BaTiO<jats:sub>3</jats:sub> with two widely used computational approaches with different treatments of many-body excitation effects.</jats:p>"

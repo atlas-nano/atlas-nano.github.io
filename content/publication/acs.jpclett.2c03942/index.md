@@ -10,7 +10,7 @@ authors:
 - George E. Sterbinsky
 - Tianpin Wu
 - Amin Salehi-Khojin
-- admin
+- Tod Pascal
 - Jordi Cabana
 date: "2023-04-06T00:00:00Z"
 doi: "10.1021/acs.jpclett.2c03942"

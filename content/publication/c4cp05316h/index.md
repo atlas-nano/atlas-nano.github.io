@@ -1,7 +1,7 @@
 ---
 title: "X-ray spectroscopy as a probe for lithium polysulfide radicals"
 authors:
-- admin
+- Tod Pascal
 - C. D. Pemmaraju
 - David Prendergast
 date: "2015-01-01T00:00:00Z"

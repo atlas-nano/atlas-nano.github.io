@@ -2,7 +2,7 @@
 title: "Electronic−Mechanical Coupling in Graphene from in situ Nanoindentation Experiments and Multiscale Atomistic Simulations"
 authors:
 - Mingyuan Huang
-- admin
+- Tod Pascal
 - Hyungjun Kim
 - William A. Goddard
 - Julia R. Greer

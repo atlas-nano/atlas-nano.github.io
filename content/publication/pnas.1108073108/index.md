@@ -1,7 +1,7 @@
 ---
 title: "Entropy and the driving force for the filling of carbon nanotubes with water"
 authors:
-- admin
+- Tod Pascal
 - William A. Goddard
 - Yousung Jung
 date: "2011-07-19T00:00:00Z"

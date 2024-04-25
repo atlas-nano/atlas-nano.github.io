@@ -9,7 +9,7 @@ authors:
 - Taewoo Kim
 - Lior Kornblum
 - Darrell G. Schlom
-- admin
+- Tod Pascal
 - David P. Fenning
 date: "2022-05-25T00:00:00Z"
 doi: "10.1021/acs.nanolett.2c00047"

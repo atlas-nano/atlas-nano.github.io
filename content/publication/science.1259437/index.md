@@ -3,7 +3,7 @@ title: "The structure of interfacial water on gold electrodes studied by x-ray a
 authors:
 - Juan-Jesus Velasco-Velez
 - Cheng Hao Wu
-- admin
+- Tod Pascal
 - Liwen F. Wan
 - Jinghua Guo
 - David Prendergast

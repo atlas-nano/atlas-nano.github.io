@@ -1,7 +1,7 @@
 ---
 title: "Role of Specific Cations and Water Entropy on the Stability of Branched DNA Motif Structures"
 authors:
-- admin
+- Tod Pascal
 - William A. Goddard
 - Prabal K. Maiti
 - Nagarajan Vaidehi

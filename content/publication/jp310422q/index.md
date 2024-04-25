@@ -2,7 +2,7 @@
 title: "Scaled Effective Solvent Method for Predicting the Equilibrium Ensemble of Structures with Analysis of Thermodynamic Properties of Amorphous Polyethylene Glycol–Water Mixtures"
 authors:
 - Hyeyoung Shin
-- admin
+- Tod Pascal
 - William A. Goddard
 - Hyungjun Kim
 date: "2013-01-24T00:00:00Z"

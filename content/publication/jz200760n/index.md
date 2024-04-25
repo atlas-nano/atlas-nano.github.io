@@ -1,7 +1,7 @@
 ---
 title: "Thermodynamics of Water Stabilization of Carboxybetaine Hydrogels from Molecular Dynamics Simulations"
 authors:
-- admin
+- Tod Pascal
 - Yi He
 - Shaoyi Jiang
 - William A. Goddard

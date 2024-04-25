@@ -3,7 +3,7 @@ title: "Focus on the deformation mechanism at the interfacial layer in nano-rein
 authors:
 - Fahmi Bedoui
 - Andres Jaramillo-Botero
-- admin
+- Tod Pascal
 - William A. Goddard
 date: "2021-08-01T00:00:00Z"
 doi: "10.1016/j.mechmat.2021.103903"

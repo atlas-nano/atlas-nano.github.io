@@ -2,7 +2,7 @@
 title: "Characterization of Polysulfide Radicals Present in an Ether‐Based Electrolyte of a Lithium–Sulfur Battery During Initial Discharge Using In Situ X‐Ray Absorption Spectroscopy Experiments and First‐Principles Calculations"
 authors:
 - Kevin H. Wujcik
-- admin
+- Tod Pascal
 - C. D. Pemmaraju
 - Didier Devaux
 - Wayne C. Stolte

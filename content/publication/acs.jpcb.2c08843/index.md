@@ -4,7 +4,7 @@ authors:
 - Andrew T. Kleinschmidt
 - Alexander X. Chen
 - Robert S. Ramji
-- admin
+- Tod Pascal
 - Darren J. Lipomi
 date: "2023-03-09T00:00:00Z"
 doi: "10.1021/acs.jpcb.2c08843"

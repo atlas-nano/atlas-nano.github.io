@@ -1,7 +1,7 @@
 ---
 title: "X-ray Absorption Spectra of Dissolved Polysulfides in Lithium–Sulfur Batteries from First-Principles"
 authors:
-- admin
+- Tod Pascal
 - Kevin H. Wujcik
 - Juan Velasco-Velez
 - Chenghao Wu

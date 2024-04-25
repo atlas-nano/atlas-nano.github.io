@@ -3,7 +3,7 @@ title: "In Situ X-ray Absorption Spectroscopy Studies of Discharge Reactions in 
 authors:
 - Kevin H. Wujcik
 - Dunyang Rita Wang
-- admin
+- Tod Pascal
 - David Prendergast
 - Nitash P. Balsara
 date: "2017-01-01T00:00:00Z"

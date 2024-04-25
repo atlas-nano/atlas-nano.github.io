@@ -2,7 +2,7 @@
 title: "Molecular-Scale Structure of Electrode–Electrolyte Interfaces: The Case of Platinum in Aqueous Sulfuric Acid"
 authors:
 - Cheng Hao Wu
-- admin
+- Tod Pascal
 - Artem Baskin
 - Huixin Wang
 - Hai-Tao Fang
