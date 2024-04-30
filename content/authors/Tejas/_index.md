@@ -25,8 +25,9 @@ organizations:
 bio: # TODO:
 
 interests:
-  - Solid State Physics and Chemistry
-  - Ferroelectric Perovskites
+  - Solid State Physics
+  - Chemistry
+  - Perovskites
 
 education:
   courses: 
@@ -43,6 +44,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:tnivarty@ucsd.edu'
+  - icon: google-scholar
+    icon_pack: brands
+    link: https://scholar.google.com/citations?user=90PkvvEAAAAJ&hl=en
+  - icon: github
+    icon_pack: brands
+    link: https://github.com/Tejas-Nivarty
+  - icon: linkedin
+    icon_pack: brands
+    link: https://www.linkedin.com/in/tejasnivarty/
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -67,4 +77,4 @@ user_groups:
   - Grad Students
 ---
 
-Tejas is a first-year nanoengineering PhD student in the ATLAS group co-advised by Prof. David Fenning. He is doing electrifying work at the interface of solid state physics and chemistry investigating the potential of ferroelectric perovskites as electrocatalysts. Tejas graduated summa cum laude from the University of Minnesota, Twin Cities with a bachelors in chemical engineering and is an NSF Graduate Research Fellow. Outside of the lab, Tejas enjoys music, hiking, cooking, Geoguessr, and exploring San Diego.
+Tejas is a first-year nanoengineering PhD student in the ATLAS group co-advised by Prof. David Fenning. He is doing electrifying work at the interface of solid state physics and chemistry investigating the potential of ferroelectric perovskites as electrocatalysts. Tejas graduated summa cum laude from the University of Minnesota, Twin Cities with a bachelors in chemical engineering and is an NSF Graduate Research Fellow. Outside of the lab, Tejas enjoys music, hiking, cooking, playing Geoguessr, and exploring San Diego.
