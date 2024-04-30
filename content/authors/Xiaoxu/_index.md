@@ -26,18 +26,27 @@ bio: # TODO:
 
 interests:
   - Electrochemical Systems
+  - Solvation Structures
+  - Atomistic Modeling
+  - Machine Learning
 
-education: # TODO:
+education: 
   courses:
+    - course: M.S. in Chemical Engineering 
+      institution: University of California, Berkeley
+      year: 2023
+    - course: B.E. in Polymer Materials and Engineering 
+      institution: Beijing University of Chemical Technologies
+      year: 2020
 
 # Social/Academic Networking TODO:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:test@example.org'
+  - icon: envelope
+    icon_pack: fas
+    link: 'xiruan@ucsd.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -62,4 +71,4 @@ user_groups:
   - Grad Students
 ---
 
-Xiaoxu is a PhD student in the Nanoengineering department. She is interested in electrochemical systems. She is working on understanding solution system and trying to understand solvation with MD simulations and machine learning. She enjoys cooking and hiking with friends at free time.
+Xiaoxu is a PhD student in the Nanoengineering department. She is interested in electrochemical systems and is using MD simulations and machine learning to understand solution systems like simple salts and battery electrolytes. She enjoys cooking and hiking with friends at free time.
