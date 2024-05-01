@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: # TODO:
+bio: Black Country, New Road fan
 
 interests:
   - Solid State Physics
@@ -45,13 +45,13 @@ social:
     icon_pack: fas
     link: 'mailto:tnivarty@ucsd.edu'
   - icon: google-scholar
-    icon_pack: brands
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=90PkvvEAAAAJ&hl=en
   - icon: github
-    icon_pack: brands
+    icon_pack: fab
     link: https://github.com/Tejas-Nivarty
   - icon: linkedin
-    icon_pack: brands
+    icon_pack: fab
     link: https://www.linkedin.com/in/tejasnivarty/
   # - icon: twitter
   #   icon_pack: fab
