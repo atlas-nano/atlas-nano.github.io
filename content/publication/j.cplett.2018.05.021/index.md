@@ -37,7 +37,7 @@ authors:
 - Craig P. Schwartz
 date: "2018-07-01T00:00:00Z"
 doi: "10.1016/j.cplett.2018.05.021"
-abstract: ""
+abstract: "We have examined the transmission of soft X-ray pulses from the FERMI free electron laser through carbon films of varying thickness, quantifying nonlinear effects of pulses above and below the carbon K-edge. At typical of soft X-ray free electron laser intensities, pulses exhibit linear absorption at photon energies above and below the K-edge, ∼308 and ∼260 eV, respectively; whereas two-photon absorption becomes significant slightly below the K-edge, ∼284.2 eV. The measured two-photon absorption cross section at 284.18 eV (∼6 × 10−48 cm4 s) is 7 orders of magnitude above what is expected from a simple theory based on hydrogen-like atoms – a result of resonance effects."
 links:
 - name: Main Paper
   url: "publication/j.cplett.2018.05.021/047.qt3xn0326x.pdf"
