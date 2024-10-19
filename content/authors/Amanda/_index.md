@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amanda Chen
+title: Amanda A. Chen
 
 # Full name (for SEO)
 first_name: Amanda
@@ -9,6 +9,9 @@ last_name: Chen
 # Username (this should match the folder name)
 authors:
   - Amanda
+  - Amanda Chen
+  - Amanda A. Chen
+  - Amanda\ A\.\ Chen
 
 # Is this the primary user of the site?
 superuser: false
