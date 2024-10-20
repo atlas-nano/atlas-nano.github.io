@@ -9,6 +9,9 @@ last_name: Ramji
 # Username (this should match the folder name)
 authors:
   - Robert
+  - Robert Ramji
+  - Robert S. Ramji
+  - Robert Scanlon Ramji
 
 # Is this the primary user of the site?
 superuser: false
