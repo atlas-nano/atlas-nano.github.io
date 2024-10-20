@@ -3,7 +3,7 @@
 title: Tod Pascal
 
 # Full Name (for SEO)
-first_name: Tod 
+first_name: Tod
 last_name: Pascal
 
 # Username (this should match the folder name)
