@@ -27,5 +27,3 @@ links:
 publication: "Angewandte Chemie International Edition"
 publication_types: ["article-journal"]
 ---
-
-Add the publication's full text or supplementary notes here.
