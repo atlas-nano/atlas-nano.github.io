@@ -1,5 +1,6 @@
 ---
-title: "Multilayer Two-Dimensional Water Structure Confined in MoS<sub>2</sub>"
+title: "Multilayer Two-Dimensional Water Structure Confined in MoS₂
+"
 authors:
   - Kijeong Kwac
   - In Kim

@@ -1,5 +1,5 @@
 ---
-title: "Ferroelectric Modulation of Surface Electronic States in BaTiO<sub>3</sub> for Enhanced Hydrogen Evolution Activity"
+title: "Ferroelectric Modulation of Surface Electronic States in BaTiO₃ for Enhanced Hydrogen Evolution Activity"
 authors:
   - Pedram Abbasi
   - Matthew R. Barone

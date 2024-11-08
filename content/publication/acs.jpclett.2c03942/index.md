@@ -1,5 +1,5 @@
 ---
-title: "Active States During the Reduction of CO<sub>2</sub> by a MoS<sub>2</sub> Electrocatalyst"
+title: "Active States During the Reduction of CO₂ by a MoS₂ Electrocatalyst"
 authors:
   - Khagesh Kumar
   - Sasawat Jamnuch

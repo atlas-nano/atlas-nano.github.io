@@ -1,5 +1,6 @@
 ---
-title: "Nanoscale Surface Structure of Nanometer-Thick Ferroelectric BaTiO<sub>3</sub> Films Revealed by Synchrotron X-ray Scanning Tunneling Microscopy: Implications for Catalytic Adsorption Reactions"
+title: "Nanoscale Surface Structure of Nanometer-Thick Ferroelectric BaTiO₃ Films Revealed by Synchrotron X-ray Scanning Tunneling Microscopy: Implications for Catalytic Adsorption Reactions
+"
 authors:
   - Pedram Abbasi
   - Nozomi Shirato

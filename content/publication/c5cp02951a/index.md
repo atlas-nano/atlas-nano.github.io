@@ -1,5 +1,5 @@
 ---
-title: "Probing the mechanism of CO<sub>2</sub> capture in diamine-appended metal–organic frameworks using measured and simulated X-ray spectroscopy"
+title: "Probing the mechanism of CO₂ capture in diamine-appended metal–organic frameworks using measured and simulated X-ray spectroscopy"
 authors:
   - Walter S. Drisdell
   - Roberta Poloni
