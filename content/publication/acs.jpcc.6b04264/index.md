@@ -23,5 +23,3 @@ links:
 publication: "The Journal of Physical Chemistry C"
 publication_types: ["article-journal"]
 ---
-
-Add the publication's full text or supplementary notes here.
